@@ -1,2 +1,0 @@
-# prueba
-modulo 1
